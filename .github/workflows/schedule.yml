@@ -14,4 +14,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: a89b29a8102c4f0ebfd395ce0371ef56
-          TIMEZONE: Europe/Moscow
+          TIMEZONE: Europe/Volgograd
